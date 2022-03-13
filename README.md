@@ -21,7 +21,7 @@ I am currently working full-time as a software engineer, based in Shanghai, Chin
 For most time, I am writing backend projects using Go and Java. I also have some experience in frontend, though I am not good at styling :)
 <br />
 
-I don't write side projects as often now due to work commitments. However, I keep learning new technologies during spare time.
+I don't work on side projects as often now due to work commitments. However, I am still learning new technologies during spare time.
 
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yang-lu-097782134/).
