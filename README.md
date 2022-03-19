@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 💼 Currently working as a software engineer at ByteDance, based in Shanghai, China
 - 🎯 Focused on back-end development using Go and Java, also experienced with JS
 - 🎓 Graduated from Unimelb with Master's degree in Information Technology
-- ⚡  Fun fact: there is still no ternary operator in Golang today
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yang-lu-097782134/).
 - 📫 Reach me at yang.youngsoul@gmail.com
 
@@ -32,5 +31,5 @@ Here are some ideas to get you started:
 
 <!-- ![caffeaulait's GitHub stats](https://github-readme-stats.vercel.app/api?username=caffeaulait&count_private=true&show_icons=true) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeaulait&layout=compact&langs_count=10&hide=asl) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeaulait&layout=compact&langs_count=10&hide=asl,css,HTML)
 
